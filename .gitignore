@@ -5,3 +5,5 @@ VibRibbonPakExtractor/obj/
 [Dd]esktop.ini
 Thumbs.db
 Thumbs.db:encryptable
+.gitignore
+.gitattributes
