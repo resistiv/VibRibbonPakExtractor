@@ -14,10 +14,11 @@ PAK files store a set number of files that are utilized within the game in an un
 
 // File Body
     // For each flie
-        char {x}        Variable-length, null-terminated file name (Padded to nearest 4 bytes)
+        char {x}        Variable-length, null-terminated file name (padded to nearest 4 bytes)
         uint32 {4}      File length
         byte {x}        File data
 ```
+Additionally, the file names include nested directories, which this program handles & replicates natively.
 
 License
 -------
