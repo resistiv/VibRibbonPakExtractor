@@ -1,3 +1,7 @@
+This tool is outdated!
+======================
+**Please use [VibRipper](https://github.com/resistiv/VibRipper) or [KNFE](https://github.com/resistiv/KNFE) instead!**
+
 Vib-Ribbon PAK Extractor
 ========================
 A simple command-line application for extracting files that are contained in PAK (.PAK) files found within the PS1 title Vib-Ribbon / ビブリボン. This tool works with both the Japanese & European versions of the game, and is untested on the PSN version.
